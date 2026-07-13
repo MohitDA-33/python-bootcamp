@@ -1,2 +1,4 @@
 # python-bootcamp
-Practice code. exercises, and mini-projects as i learn Python from scratch
+This repo holds all the code I write while learning Python <br>
+organized topic by topic as I go through the course.<br>
+each folder contains the practice code for that topic.
