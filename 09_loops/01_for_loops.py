@@ -10,18 +10,13 @@ print(3)
 print(4)
 print(5)
 
-# This is a small example. Printing numbers from 1 to 5 is easy,
-# but imagine printing numbers from 1 to 1,000,000.
-# That's where loops become useful.
+# This is a small example. Printing numbers from 1 to 5 is easy, but imagine printing numbers from 1 to 1,000,000, That's where loops become useful.
 
 # Print 1 to 5
 for i in range(1, 6):
     print(i)
 
-# Why 6?
-# Because range(start, stop) includes the start value
-# but excludes the stop value.
-# So range(1, 6) prints 1, 2, 3, 4, 5.
+# Why 6? Because range(start, stop) includes the start value, but excludes the stop value, So range(1, 6) prints 1, 2, 3, 4, 5.
 
 # Print the multiplication table of 17.
 for i in range(1, 11):
