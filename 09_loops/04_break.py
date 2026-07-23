@@ -6,7 +6,7 @@
 
 for i in range(1, 11):
     if i == 7:
-        break
+        break # cancel the execution of this loop now.
     print(i)
 
 # So, what really happened here is when this loop runs it will start from i = 1, and then i = 2, its goes in a loop of iteration, but when it reaches number == 7, it enters the if statement i == 7, execute the break statement, and immediately exits the loop.
