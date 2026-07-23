@@ -6,7 +6,7 @@
 
 for i in range(1, 11, 1):
     if i == 5:
-        continue
+        continue # continue the loop for the next iteration here itself. 
     print(i)
 
 # Another examples:
